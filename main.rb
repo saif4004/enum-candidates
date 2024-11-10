@@ -6,4 +6,5 @@ require './filters'
 
 ## Your test code can go here
 
-pp @candidates
+# pp @candidates
+puts qualified_candidates(@candidates)
